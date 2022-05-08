@@ -3,12 +3,12 @@
 	<!--=================================
     LOGOTIPO
     ==================================-->
-	<a href="" class="logo">
+	<a href="inicio" class="logo">
 
 		<!-- logo mini -->
 		<span class="logo-mini">
 		
-			<img src="vistas/img/plantilla/icono-blanco" class="img-responsive" style="padding:0,001px">
+			<img src="vistas/img/plantilla/icono-blanco" class="img-responsive" style="padding:5px">
 
 		</span>
 
@@ -16,7 +16,7 @@
 
 		<span class="logo-lg">
 		
-			<img src="vistas/img/plantilla/logo-blanco-lineal.png" class="img-responsive" style="padding:1px 1px">
+			<img src="vistas/img/plantilla/logo-blanco-lineal.png" class="img-responsive" style="padding:0,2px 0,2px">
 
 		</span>
 
@@ -45,7 +45,7 @@
 
     				<a href="#" class="dropdown-toggle" data-toggle="dropdown">
     				
-    					<img src="vistas/img/usuarios/default/anonymous" class=user-image>
+    					<img src="vistas/img/usuarios/default/anonymous.png" class=user-image>
 
     					<span class="hidden-xs">Usuario Administrador</span>
     				
